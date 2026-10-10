@@ -1,5 +1,8 @@
 <img width="1700" height="568" alt="github-header-banner" src="https://github.com/user-attachments/assets/f04d23f2-6cd2-439d-a8fd-12fc9de6c6f3" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=adityachaubeycode)
+
+
 ### Hi there 👋, my name is Aditya Chaubey
 #### I am a Deep learning student 
 I am a dedicated student deeply fascinated by artificial intelligence, neural networks, and computer vision. Currently, I am expanding my knowledge day by day, building models, and diving deep into the mathematics behind modern AI.
