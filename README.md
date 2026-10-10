@@ -1,16 +1,26 @@
-## Hi there 👋
+<img width="1700" height="568" alt="github-header-banner" src="https://github.com/user-attachments/assets/f04d23f2-6cd2-439d-a8fd-12fc9de6c6f3" />
 
-<!--
-**adityachaubeycode/adityachaubeycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Aditya Chaubey
+#### I am a Deep learning student 
+I am a dedicated student deeply fascinated by artificial intelligence, neural networks, and computer vision. Currently, I am expanding my knowledge day by day, building models, and diving deep into the mathematics behind modern AI.
 
-Here are some ideas to get you started:
+Skills: Python / Pytorch/ Git / pytorch_lightning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on on face generator Diffusion model  
+- 🌱 I’m currently learning  Advanced Deep Learning architectures, optimization techniques and diving into the world of GenAI. 
+- 💬 Ask me about Python, PyTorch basics, or version control with Git/GitHub. 
+- 📫 How to reach me: aditya09chaubey@gmail.com 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I spend more time debugging tensor shapes and device mismatch error than training models 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adityachaubeycode) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-chaubey-1793a7413/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://huggingface.co/adityachaubey)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityachaubeycode)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adityachaubeycode&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=adityachaubeycode)  
+
