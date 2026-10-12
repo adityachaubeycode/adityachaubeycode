@@ -4,6 +4,14 @@
 
 
 ### Hi there 👋, my name is Aditya Chaubey
+<p align="left"> 
+
+<img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-326CE5?style=for-the-badge&logo=Pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-3568A3?style=for-the-badge&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-3568A3?style=for-the-badge&logo=HuggingFace&logoColor=white"/>
+
 #### I am a Deep learning student 
 I am a dedicated student deeply fascinated by artificial intelligence, neural networks, and computer vision. Currently, I am expanding my knowledge day by day, building models, and diving deep into the mathematics behind modern AI.
 
@@ -18,8 +26,9 @@ Skills: Python / Pytorch/ Git / pytorch_lightning
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adityachaubeycode) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-chaubey-1793a7413/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://huggingface.co/adityachaubey)  
+<a href="mailto:adityachaubey09gmail.com"><img src="https://img.shields.io/badge/Email-BB001B?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://huggingface.co/adityachaubey)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityachaubeycode)](https://github.com/anuraghazra/github-readme-stats)
 
